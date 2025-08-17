@@ -94,11 +94,11 @@ Tidak Lolos
 - **MBAHSINGO22**
 - 🔗 GitHub
 
-- **MBAHSINGO22**
+- **Naranss**
 - 🔗 GitHub
 
-- **MBAHSINGO22**
+- **Khrisnayana**
 - 🔗 GitHub
 
-- **MBAHSINGO22**
+- **Firjatullah-bf**
 - 🔗 GitHub
