@@ -1,0 +1,279 @@
+Nama: Ahmad Rifqi
+No Pendaftaran: 2024051
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Renang, Juara Lomba Bulu Tangkis, Peringkat 3 Lomba Catur
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 3
+
+Nama: Siti Aisyah
+No Pendaftaran: 2024052
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Tari Tradisional, Juara Debat Bahasa Indonesia, Juara Lomba Drum Band
+Tingkat Prestasi: Provinsi, Nasional, Nasional
+Ranking: 1, 1, 2
+
+Nama: Budi Santoso
+No Pendaftaran: 2024053
+Jalur: Prestasi Non Akademik
+Prestasi: Peringkat 2 Lomba Panjat Tebing, Juara Lomba Menyanyi Solo, Pemenang Lomba Seni Lukis
+Tingkat Prestasi: Nasional, Kota, Provinsi
+Ranking: 2, 1, 1
+
+Nama: Maya Indah
+No Pendaftaran: 2024054
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Baca Puisi, Pemenang Lomba Fotografi, Peringkat 3 Lomba Renang
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 3
+
+Nama: Joko Susilo
+No Pendaftaran: 2024055
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Karate, Juara Lomba Bulu Tangkis, Peringkat 2 Lomba Menyanyi Solo
+Tingkat Prestasi: Kota, Nasional, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Rini Wijaya
+No Pendaftaran: 2024056
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Pencak Silat, Pemenang Lomba Desain Poster, Peringkat 3 Lomba Renang
+Tingkat Prestasi: Provinsi, Nasional, Kota
+Ranking: 1, 1, 3
+
+Nama: Dedi Rahman
+No Pendaftaran: 2024057
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Futsal, Juara Lomba Menyanyi Solo, Peringkat 2 Lomba Debat Bahasa Inggris
+Tingkat Prestasi: Kota, Kota, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Fitri Ananda
+No Pendaftaran: 2024058
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Renang, Pemenang Lomba Seni Tari Modern, Peringkat 3 Lomba Bulu Tangkis
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 3
+
+Nama: Agus Setiawan
+No Pendaftaran: 2024059
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Karate, Juara Lomba Drum Band, Peringkat 2 Lomba Debat Bahasa Indonesia
+Tingkat Prestasi: Kota, Nasional, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Dewi Lestari
+No Pendaftaran: 2024060
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Panjat Tebing, Pemenang Lomba Menyanyi Solo, Peringkat 3 Lomba Renang
+Tingkat Prestasi: Provinsi, Kota, Nasional
+Ranking: 1, 1, 3
+
+Nama: Bambang Supriyadi
+No Pendaftaran: 2024061
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Futsal, Juara Lomba Catur, Peringkat 2 Lomba Fotografi
+Tingkat Prestasi: Kota, Nasional, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Rina Amelia
+No Pendaftaran: 2024062
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Renang, Pemenang Lomba Seni Tari Tradisional, Peringkat 3 Lomba Baca Puisi
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 3
+
+Nama: Iqbal Firmansyah
+No Pendaftaran: 2024063
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Panjat Tebing, Juara Lomba Karate, Peringkat 2 Lomba Seni Lukis
+Tingkat Prestasi: Kota, Nasional, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Citra Putri
+No Pendaftaran: 2024064
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Drum Band, Pemenang Lomba Fotografi, Peringkat 3 Lomba Bulu Tangkis
+Tingkat Prestasi: Kota, Kota, Nasional
+Ranking: 1, 1, 3
+
+Nama: Eko Prasetyo
+No Pendaftaran: 2024065
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Futsal, Juara Lomba Renang, Peringkat 2 Lomba Pencak Silat
+Tingkat Prestasi: Kota, Kota, Nasional
+Ranking: 1, 1, 2
+
+Nama: Anita Susanti
+No Pendaftaran: 2024066
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Seni Tari Modern, Pemenang Lomba Menyanyi Solo, Peringkat 3 Lomba Debat Bahasa Indonesia
+Tingkat Prestasi: Provinsi, Kota, Nasional
+Ranking: 1, 1, 3
+
+Nama: Maria Dewi
+No Pendaftaran: 2024067
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Bulutangkis Sekolah, Medali Emas Renang Kota, Runner-up Paduan Suara Provinsi
+Tingkat Prestasi: Kota, Kota, Provinsi
+Ranking: 1, 1, 2
+
+Nama: Budi Santoso
+No Pendaftaran: 2024068
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Karate Kabupaten, Medali Perak Catur Provinsi, Piala Emas Pencak Silat Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 2, 1
+
+Nama: Rini Cahyani
+No Pendaftaran: 2024069
+Jalur: Prestasi Non Akademik
+Prestasi: Medali Emas Panjat Tebing Kota, Juara Tarik Tambang Provinsi, Piala Perak Futsal Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 2
+
+Nama: Antoni Surya
+No Pendaftaran: 2024070
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Bulu Tangkis Kota, Runner-up Renang Provinsi, Medali Perunggu Atletik Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 2, 3
+
+Nama: Putri Anggraini
+No Pendaftaran: 2024071
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Tari Tradisional Kabupaten, Pemenang Lomba Puisi Provinsi, Medali Emas Atletik Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 1, 1
+
+Nama: Farhan Abdullah
+No Pendaftaran: 2024072
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Renang Kota, Medali Perak Panjat Tebing Provinsi, Piala Emas Futsal Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 2, 1
+
+Nama: Dewi Lestari
+No Pendaftaran: 2024073
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Bulu Tangkis Kabupaten, Medali Emas Lomba Puisi Provinsi, Runner-up Pencak Silat Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 1, 2
+
+Nama: Fajar Wijaya
+No Pendaftaran: 2024074
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Taekwondo Kota, Medali Perak Renang Provinsi, Piala Emas Tarik Tambang Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 2, 1
+
+Nama: Anisa Putri
+No Pendaftaran: 2024075
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Bulu Tangkis Kota, Medali Perunggu Karate Provinsi, Piala Emas Pencak Silat Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 3, 1
+
+Nama: Hendra Gunawan
+No Pendaftaran: 2024076
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Renang Kabupaten, Medali Perak Bulu Tangkis Provinsi, Runner-up Futsal Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 2, 2
+
+Nama: Siska Putri
+No Pendaftaran: 2024077
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Panjat Tebing Kota, Medali Emas Pencak Silat Provinsi, Piala Perak Bulu Tangkis Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 2
+
+Nama: Ahmad Syarif
+No Pendaftaran: 2024078
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Tarik Tambang Kabupaten, Medali Perunggu Renang Provinsi, Piala Emas Karate Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 3, 1
+
+Nama: Indah Sari
+No Pendaftaran: 2024079
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Karate Kota, Medali Perak Panjat Tebing Provinsi, Runner-up Atletik Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 2, 2
+
+Nama: Rizki Pratama
+No Pendaftaran: 2024080
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Taekwondo Kabupaten, Medali Emas Renang Provinsi, Piala Perak Tarik Tambang Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 1, 2
+
+Nama: Yuni Kusuma
+No Pendaftaran: 2024081
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Tarik Tambang Kota, Medali Emas Futsal Provinsi, Runner-up Panjat Tebing Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 1, 2
+
+Nama: Joko Susanto
+No Pendaftaran: 2024082
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Bulu Tangkis Kabupaten, Medali Perak Karate Provinsi, Piala Emas Renang Nasional
+Tingkat Prestasi: Kabupaten, Provinsi, Nasional
+Ranking: 1, 2, 1
+
+Nama: Amanda Putri
+No Pendaftaran: 2024083
+Jalur: Prestasi Non Akademik
+Prestasi: Juara 1 Lomba Renang, Juara 2 Bulu Tangkis Tingkat Kota, Juara 3 Debat Bahasa Inggris Tingkat Nasional
+Tingkat Prestasi: Kota, Kota, Nasional
+Ranking: 1, 2, 3
+
+Nama: Rizky Pratama
+No Pendaftaran: 2024084
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Fotografi Tingkat Provinsi, Juara 1 Lomba Drum Band Tingkat Nasional, Runner-up Kompetisi Esport Internasional
+Tingkat Prestasi: Provinsi, Nasional, Internasional
+Ranking: 1, 1, 2
+
+Nama: Sofia Anggraini
+No Pendaftaran: 2024085
+Jalur: Prestasi Non Akademik
+Prestasi: Juara 1 Lomba Karate Tingkat Nasional, Juara 2 Lomba Catur Tingkat Internasional, Pemenang Lomba Puisi Tingkat Kota
+Tingkat Prestasi: Nasional, Internasional, Kota
+Ranking: 1, 2, 1
+
+Nama: Ahmad Rahman
+No Pendaftaran: 2024086
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Menyanyi Dangdut Tingkat Kota, Juara 2 Lomba Bela Diri Tingkat Provinsi, Runner-up Kompetisi Game Online Internasional
+Tingkat Prestasi: Kota, Provinsi, Internasional
+Ranking: 1, 2, 2
+
+Nama: Dian Sari
+No Pendaftaran: 2024087
+Jalur: Prestasi Non Akademik
+Prestasi: Juara 1 Lomba Tari Tradisional Tingkat Nasional, Pemenang Lomba Desain Grafis Tingkat Kota, Juara 3 Lomba Debating Club Tingkat Internasional
+Tingkat Prestasi: Nasional, Kota, Internasional
+Ranking: 1, 1, 3
+
+Nama: Bima Nugraha
+No Pendaftaran: 2024088
+Jalur: Prestasi Non Akademik
+Prestasi: Pemenang Lomba Renang Gaya Bebas Tingkat Kota, Juara 2 Lomba Bulu Tangkis Beregu Tingkat Provinsi, Runner-up Kompetisi Robotik Tingkat Nasional
+Tingkat Prestasi: Kota, Provinsi, Nasional
+Ranking: 1, 2, 2
+
+Nama: Petrus Denis Artanto
+No Pendaftaran: 2024089
+Jalur: Prestasi Non Akademik
+Prestasi: Runner-up Lomba Upercut, Juara 3 Lomba Makan Onigiri, Juara Lomba Tidur
+Tingkat Prestasi: Kota, Nasional, Internasional
+Ranking: 2, 3, 1
+
+Nama: Gilbert Asep Untung
+No Pendaftaran: 2024090
+Jalur: Prestasi Non Akademik
+Prestasi: Juara Lomba Makan Kerupuk, Runner-up Kontes Tinggi Badan, Juara Lomba Upercut
+Tingkat Prestasi: Nasional, Provinsi, Kota
+Ranking: 1, 2, 1

@@ -1,0 +1,399 @@
+Nama: Anies Baswedan
+No Pendaftaran: 2024001
+Jalur: Prestasi Akademik
+Nilai IPA: 85
+Nilai Matematika: 78
+Nilai Bahasa Indonesia: 82
+Nilai Bahasa Inggris: 88
+
+Nama: Prabowo Subianto
+No Pendaftaran: 2024002
+Jalur: Prestasi Akademik
+Nilai IPA: 90
+Nilai Matematika: 92
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 87
+
+Nama: Ganjar Pranowo
+No Pendaftaran: 2024003
+Jalur: Prestasi Akademik
+Nilai IPA: 17
+Nilai Matematika: 17
+Nilai Bahasa Indonesia: 17
+Nilai Bahasa Inggris: 17
+
+Nama: Dewi Anggraini
+No Pendaftaran: 2024004
+Jalur: Prestasi Akademik
+Nilai IPA: 88
+Nilai Matematika: 86
+Nilai Bahasa Indonesia: 90
+Nilai Bahasa Inggris: 84
+
+Nama: Ahmad Hidayat
+No Pendaftaran: 2024005
+Jalur: Prestasi Akademik
+Nilai IPA: 92
+Nilai Matematika: 94
+Nilai Bahasa Indonesia: 88
+Nilai Bahasa Inggris: 90
+
+Nama: Siti Nurul
+No Pendaftaran: 2024006
+Jalur: Prestasi Akademik
+Nilai IPA: 86
+Nilai Matematika: 80
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 82
+
+Nama: Dian Surya
+No Pendaftaran: 2024007
+Jalur: Prestasi Akademik
+Nilai IPA: 83
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 80
+Nilai Bahasa Inggris: 78
+
+Nama: Indra Wijaya
+No Pendaftaran: 2024008
+Jalur: Prestasi Akademik
+Nilai IPA: 89
+Nilai Matematika: 91
+Nilai Bahasa Indonesia: 87
+Nilai Bahasa Inggris: 85
+
+Nama: Mega Fitriani
+No Pendaftaran: 2024009
+Jalur: Prestasi Akademik
+Nilai IPA: 87
+Nilai Matematika: 89
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 86
+
+Nama: Eko Susanto
+No Pendaftaran: 2024010
+Jalur: Prestasi Akademik
+Nilai IPA: 80
+Nilai Matematika: 82
+Nilai Bahasa Indonesia: 78
+Nilai Bahasa Inggris: 81
+
+Nama: Nita Sari
+No Pendaftaran: 2024011
+Jalur: Prestasi Akademik
+Nilai IPA: 84
+Nilai Matematika: 86
+Nilai Bahasa Indonesia: 82
+Nilai Bahasa Inggris: 80
+
+Nama: Joko Santoso
+No Pendaftaran: 2024012
+Jalur: Prestasi Akademik
+Nilai IPA: 91
+Nilai Matematika: 93
+Nilai Bahasa Indonesia: 89
+Nilai Bahasa Inggris: 88
+
+Nama: Putri Kusuma
+No Pendaftaran: 2024013
+Jalur: Prestasi Akademik
+Nilai IPA: 85
+Nilai Matematika: 87
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 82
+
+Nama: Agus Riyanto
+No Pendaftaran: 2024014
+Jalur: Prestasi Akademik
+Nilai IPA: 82
+Nilai Matematika: 84
+Nilai Bahasa Indonesia: 79
+Nilai Bahasa Inggris: 76
+
+Nama: Nani Indriani
+No Pendaftaran: 2024015
+Jalur: Prestasi Akademik
+Nilai IPA: 88
+Nilai Matematika: 90
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 84
+
+Nama: Rudi Hidayat
+No Pendaftaran: 2024016
+Jalur: Prestasi Akademik
+Nilai IPA: 90
+Nilai Matematika: 92
+Nilai Bahasa Indonesia: 87
+Nilai Bahasa Inggris: 86
+
+Nama: Maya Sari
+No Pendaftaran: 2024017
+Jalur: Prestasi Akademik
+Nilai IPA: 83
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 81
+Nilai Bahasa Inggris: 79
+
+Nama: Dedy Prasetyo
+No Pendaftaran: 2024018
+Jalur: Prestasi Akademik
+Nilai IPA: 86
+Nilai Matematika: 88
+Nilai Bahasa Indonesia: 84
+Nilai Bahasa Inggris: 82
+
+Nama: Rina Susanti
+No Pendaftaran: 2024019
+Jalur: Prestasi Akademik
+Nilai IPA: 89
+Nilai Matematika: 91
+Nilai Bahasa Indonesia: 87
+Nilai Bahasa Inggris: 85
+
+Nama: Ahmad Surya
+No Pendaftaran: 2024020
+Jalur: Prestasi Akademik
+Nilai IPA: 85
+Nilai Matematika: 87
+Nilai Bahasa Indonesia: 82
+Nilai Bahasa Inggris: 80
+
+Nama: Nita Anggraini
+No Pendaftaran: 2024021
+Jalur: Prestasi Akademik
+Nilai IPA: 87
+Nilai Matematika: 89
+Nilai Bahasa Indonesia: 84
+Nilai Bahasa Inggris: 83
+
+Nama: Bambang Wijaya
+No Pendaftaran: 2024022
+Jalur: Prestasi Akademik
+Nilai IPA: 84
+Nilai Matematika: 86
+Nilai Bahasa Indonesia: 81
+Nilai Bahasa Inggris: 78
+
+Nama: Yuni Setiawan
+No Pendaftaran: 2024023
+Jalur: Prestasi Akademik
+Nilai IPA: 91
+Nilai Matematika: 93
+Nilai Bahasa Indonesia: 88
+Nilai Bahasa Inggris: 87
+
+Nama: Eka Pratiwi
+No Pendaftaran: 2024024
+Jalur: Prestasi Akademik
+Nilai IPA: 86
+Nilai Matematika: 88
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 81
+
+Nama: Ahmad Fadilah
+No Pendaftaran: 2024025
+Jalur: Prestasi Akademik
+Nilai IPA: 85
+Nilai Matematika: 78
+Nilai Bahasa Indonesia: 80
+Nilai Bahasa Inggris: 82
+
+Nama: Siti Nurlela
+No Pendaftaran: 2024026
+Jalur: Prestasi Akademik
+Nilai IPA: 78
+Nilai Matematika: 82
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 79
+
+Nama: Budi Santoso
+No Pendaftaran: 2024027
+Jalur: Prestasi Akademik
+Nilai IPA: 80
+Nilai Matematika: 75
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 81
+
+Nama: Dewi Cahyani
+No Pendaftaran: 2024028
+Jalur: Prestasi Akademik
+Nilai IPA: 88
+Nilai Matematika: 89
+Nilai Bahasa Indonesia: 91
+Nilai Bahasa Inggris: 87
+
+Nama: Joko Widodo
+No Pendaftaran: 2024029
+Jalur: Prestasi Akademik
+Nilai IPA: 92
+Nilai Matematika: 87
+Nilai Bahasa Indonesia: 89
+Nilai Bahasa Inggris: 90
+
+Nama: Rina Novitasari
+No Pendaftaran: 2024030
+Jalur: Prestasi Akademik
+Nilai IPA: 76
+Nilai Matematika: 80
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 78
+
+Nama: Andi Pratama
+No Pendaftaran: 2024031
+Jalur: Prestasi Akademik
+Nilai IPA: 84
+Nilai Matematika: 79
+Nilai Bahasa Indonesia: 82
+Nilai Bahasa Inggris: 85
+
+Nama: Dian Permata
+No Pendaftaran: 2024032
+Jalur: Prestasi Akademik
+Nilai IPA: 87
+Nilai Matematika: 88
+Nilai Bahasa Indonesia: 90
+Nilai Bahasa Inggris: 86
+
+Nama: Ani Fitriani
+No Pendaftaran: 2024033
+Jalur: Prestasi Akademik
+Nilai IPA: 81
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 88
+Nilai Bahasa Inggris: 83
+
+Nama: Rudi Kurniawan
+No Pendaftaran: 2024034
+Jalur: Prestasi Akademik
+Nilai IPA: 79
+Nilai Matematika: 76
+Nilai Bahasa Indonesia: 80
+Nilai Bahasa Inggris: 77
+
+Nama: Maya Dewi
+No Pendaftaran: 2024035
+Jalur: Prestasi Akademik
+Nilai IPA: 84
+Nilai Matematika: 82
+Nilai Bahasa Indonesia: 86
+Nilai Bahasa Inggris: 83
+
+Nama: Tamu Rambu Tupa Dua
+No Pendaftaran: 2024036
+Jalur: Prestasi Akademik
+Nilai IPA: 88
+Nilai Matematika: 90
+Nilai Bahasa Indonesia: 85
+Nilai Bahasa Inggris: 89
+
+Nama: Putri Aulia
+No Pendaftaran: 2024037
+Jalur: Prestasi Akademik
+Nilai IPA: 90
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 87
+Nilai Bahasa Inggris: 92
+
+Nama: Bayu Wijaya
+No Pendaftaran: 2024038
+Jalur: Prestasi Akademik
+Nilai IPA: 82
+Nilai Matematika: 79
+Nilai Bahasa Indonesia: 81
+Nilai Bahasa Inggris: 80
+
+Nama: Ratna Sari
+No Pendaftaran: 2024039
+Jalur: Prestasi Akademik
+Nilai IPA: 85
+Nilai Matematika: 88
+Nilai Bahasa Indonesia: 90
+Nilai Bahasa Inggris: 86
+
+Nama: Fahmi Rahman
+No Pendaftaran: 2024040
+Jalur: Prestasi Akademik
+Nilai IPA: 78
+Nilai Matematika: 76
+Nilai Bahasa Indonesia: 80
+Nilai Bahasa Inggris: 77
+
+Nama: Nisa Fitri
+No Pendaftaran: 2024041
+Jalur: Prestasi Akademik
+Nilai IPA: 86
+Nilai Matematika: 83
+Nilai Bahasa Indonesia: 88
+Nilai Bahasa Inggris: 85
+
+Nama: Arif Setiawan
+No Pendaftaran: 2024042
+Jalur: Prestasi Akademik
+Nilai IPA: 83
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 89
+Nilai Bahasa Inggris: 84
+
+Nama: Siska Marwah
+No Pendaftaran: 2024043
+Jalur: Prestasi Akademik
+Nilai IPA: 89
+Nilai Matematika: 87
+Nilai Bahasa Indonesia: 92
+Nilai Bahasa Inggris: 88
+
+Nama: Dwi Prasetyo
+No Pendaftaran: 2024044
+Jalur: Prestasi Akademik
+Nilai IPA: 80
+Nilai Matematika: 76
+Nilai Bahasa Indonesia: 79
+Nilai Bahasa Inggris: 81
+
+Nama: Eka Wulandari
+No Pendaftaran: 2024045
+Jalur: Prestasi Akademik
+Nilai IPA: 82
+Nilai Matematika: 79
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 80
+
+Nama: Bambang Triyono
+No Pendaftaran: 2024046
+Jalur: Prestasi Akademik
+Nilai IPA: 87
+Nilai Matematika: 90
+Nilai Bahasa Indonesia: 86
+Nilai Bahasa Inggris: 88
+
+Nama: Rini Setyawati
+No Pendaftaran: 2024047
+Jalur: Prestasi Akademik
+Nilai IPA: 89
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 87
+Nilai Bahasa Inggris: 90
+
+Nama: Agus Susanto
+No Pendaftaran: 2024048
+Jalur: Prestasi Akademik
+Nilai IPA: 84
+Nilai Matematika: 81
+Nilai Bahasa Indonesia: 83
+Nilai Bahasa Inggris: 82
+
+Nama: Maya Dewanti
+No Pendaftaran: 2024049
+Jalur: Prestasi Akademik
+Nilai IPA: 88
+Nilai Matematika: 87
+Nilai Bahasa Indonesia: 91
+Nilai Bahasa Inggris: 89
+
+Nama: Dodi Pratama
+No Pendaftaran: 2024050
+Jalur: Prestasi Akademik
+Nilai IPA: 80
+Nilai Matematika: 85
+Nilai Bahasa Indonesia: 78
+Nilai Bahasa Inggris: 82
