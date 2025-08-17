@@ -92,7 +92,7 @@ Tidak Lolos
 
 ## 👨‍💻 Pengembang
 - **MBAHSINGO22**
-- 🔗 GitHub
+- 🔗 [ GitHub](https://github.com/MBAHSINGO22)
 
 - **Naranss**
 - 🔗 [GitHub](https://github.com/Naranss)
