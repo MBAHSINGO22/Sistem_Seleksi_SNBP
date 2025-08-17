@@ -95,10 +95,10 @@ Tidak Lolos
 - 🔗 GitHub
 
 - **Naranss**
-- 🔗 GitHub
+- 🔗 [GitHub](https://github.com/Naranss)
 
 - **Khrisnayana**
-- 🔗 GitHub
+- 🔗 [GitHub](https://github.com/Khrisnayana)
 
 - **Firjatullah-bf**
-- 🔗 GitHub
+- 🔗 [GitHub](https://github.com/Firjatullah-bf)
